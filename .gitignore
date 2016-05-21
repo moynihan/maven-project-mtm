@@ -23,7 +23,7 @@ tmp/**/*
 local.properties
 .settings/
 .loadpath
-# Recommended for Maven based projects 
+# Recommended for Maven based projects
 .project
 .classpath
 
@@ -46,3 +46,9 @@ local.properties
 flows/
 target/
 **/*.mflow
+
+# --------------- #
+#  Derby ActiveMQ #
+# --------------- #
+activemq-data
+derby.log
